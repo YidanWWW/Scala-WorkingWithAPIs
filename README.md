@@ -45,3 +45,7 @@ Artist2 : follower_count … etc
  
 
 All code must be in Scala.
+
+Output:
+![image](https://github.com/user-attachments/assets/f38f01cc-a585-428d-88d1-075223053885)
+
