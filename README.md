@@ -1,3 +1,5 @@
+Requirement:
+
 Use Scala requests to get the Spotify Playlist data in JSON format.
 
 The ID of the playlist is : 5Rrf7mqN8uus2AaQQQNdc1 
